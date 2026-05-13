@@ -1,16 +1,20 @@
-## Hi there 👋
-
+## Hi, I'm Zarfishan👋
+### Mobile Application Developer
 <!--
-**Zarfishan-Tehseen/Zarfishan-Tehseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📱 Currently specializing in Android development.
+- 🏗️ Focused on Clean Architecture and reactive programming.
+- 🌱 Learning how to optimize mobile performance and local data persistence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tech Stack
+- **Languages:** Kotlin, Swift, Dart
+- **Database:** Room, SQLite
+- **Architecture:** MVVM, Clean Architecture
+- **Dependency Injection:** Dagger Hilt
+
+- 🔭 Working on: Nmaaz Remider App
+- ⚡ Fun fact: I moved from the browser to the palm of your hand.
+
+### 📫 Reach Me
+- [LinkedIn] www.linkedin.com/in/zarfishan-tehseen
 -->
