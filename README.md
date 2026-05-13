@@ -1,7 +1,5 @@
 ## Hi, I'm Zarfishan👋
 ### Mobile Application Developer
-<!--
-
 - 📱 Currently specializing in Android development.
 - 🏗️ Focused on Clean Architecture and reactive programming.
 - 🌱 Learning how to optimize mobile performance and local data persistence.
@@ -17,4 +15,4 @@
 
 ### 📫 Reach Me
 - [LinkedIn] www.linkedin.com/in/zarfishan-tehseen
--->
+
